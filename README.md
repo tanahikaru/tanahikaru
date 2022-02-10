@@ -1,4 +1,4 @@
-# Halo semua! 
+# Hello everyone! 
 
-Perkenalkan nama saya **Hikaru Tanaka**.\
-Saya seorang **Siswa** di Dicoding Academy
+I am **Hikaru Tanaka**.\
+I am just an **unspecified things**
